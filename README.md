@@ -1,6 +1,6 @@
-# ProLaunch Careers — Starter Website
+# ProLaunch Careers - Starter Website
 
-This is a Vite + React + Tailwind starter website built from the ProLaunch Careers copy.
+This is a Vite + React + Tailwind starter website built by Mary-Queen Uchechukwu for ProLaunch Careers.
 
 ## Quick start (VS Code)
 
